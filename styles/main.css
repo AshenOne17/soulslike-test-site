@@ -1,0 +1,132 @@
+body {
+    background-color: rgb(34, 34, 34);
+    font-family: Arial;
+    line-height: 2;
+    overflow-x: hidden;
+}
+
+.mainpage {
+    margin: 40px 80px 0 80px;
+}
+
+.kanondiv {
+    border: 1px solid red;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.kanonsouls {
+    size:16px;
+    color:rgb(255, 32, 32)
+}
+
+.greeting {
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border: 2px solid red;
+    background-color: rgb(94, 94, 94);
+}
+
+.hidetaka {
+    margin-top: 30px;
+    color: white;
+}
+
+.beginning {
+    color: white;
+}
+
+
+.soulslikelist {
+    color: white;
+}
+
+.wolnir img {
+    height: 270px;
+    width: 480px;
+    display: block;
+    margin: 20px 0 0 20px;
+}
+
+.wolnir {
+    color:white;
+    float: right;
+    clear: both;
+    margin-left: 50px;
+}
+
+.hidetaka img {
+    border: 1px solid red;
+}
+
+.wolnir img {
+    border: 1px solid red;
+}
+
+.ds1 {
+    margin: auto;
+}
+
+.ds1original,
+.ds1remas {
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin: 30px;
+    border: 2px solid yellow;
+}
+
+a {
+    color: white;
+}
+
+.desorig,
+.desremake {
+    width: 300px;
+    height: 400px;
+    float: right;
+    margin: 30px;
+    border: 2px solid yellow;
+}
+
+.ds2photog,
+.ds3photo,
+.sekirophoto {
+    float: center;
+    border: 2px solid yellow;
+    margin: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.bloodbornephoto {
+    width: 576px;
+    height: 432px;
+    float: left;
+    margin: 30px;
+    border: 2px solid yellow;
+}
+
+.bloodbornephotoold {
+    width: 540px; 
+    height: 512px;
+    float: left;
+    margin: 30px;
+    border: 2px solid yellow;
+    margin-left: 60px;
+}
+
+.footer {
+    width: 100%;
+    margin: 0 0 0 0;
+}
+
+.footerbox {
+    opacity: 20%;
+    padding: 25px;
+    border: 2px;
+    background-color: gray;
+    width: 100%;
+    margin: 0 0 0 0;
+}
